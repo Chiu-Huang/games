@@ -95,7 +95,7 @@ pygame.init()
 # 游戏界面像素大小
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 # 游戏界面标题
-pygame.display.set_caption('飞机大战')
+pygame.display.set_caption('Air Fighter')
 # 背景图
 background = pygame.image.load('resources/image/background.png').convert()
 # Game Over的背景图
